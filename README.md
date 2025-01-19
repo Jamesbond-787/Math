@@ -1,2 +1,0 @@
-# Math
-reading ai 
